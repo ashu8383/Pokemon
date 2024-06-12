@@ -1,0 +1,10 @@
+.header-container {
+  background-color: #f34d61;
+  height: 250px;
+}
+.pokedex-container {
+  gap: 1rem;
+  padding: 7rem 0rem 0rem 21rem;
+
+  display: flex;
+}

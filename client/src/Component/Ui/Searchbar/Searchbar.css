@@ -1,0 +1,36 @@
+.outer-container {
+  width: 32%;
+  padding-top: 3rem;
+}
+
+.searchbar-container {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+
+  border-radius: 8px;
+  width: 59%;
+  box-shadow: 0px 0px 3px 1px #00000026;
+
+  border: 1px solid #00000026;
+}
+
+.searchbar-container input {
+  border: none;
+  color: #666666;
+  padding-left: 1rem;
+  background-color: transparent;
+  padding: 0.5rem 0rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+}
+
+.searchbar-container input:focus {
+  outline: none;
+}
+i {
+  color: #dc0a2d;
+  padding-left: 1rem;
+}

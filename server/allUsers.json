@@ -1,0 +1,39 @@
+[
+  {
+    "fullname": "John",
+    "email": "john@test.com",
+    "password": "$2a$10$BxQbGOFrVoxYcU2l3QHyAeyM.X21YltO8EZ8LVmIGZCnPmpk1xd3y",
+    "id": "1710508568604",
+    "avatar": "https://i.pravatar.cc/300"
+  },
+  {
+    "fullname": "John",
+    "email": "johnn@test.com",
+    "password": "$2a$10$8cAMqWTVM17gfguz8vWgiu5xML8YWcM6zZo3rbGol.5FQxdNirZda",
+    "id": "1712230333386",
+    "avatar": "https://i.pravatar.cc/300"
+  },
+  {
+    "email": "john898@test.com",
+    "password": "$2a$10$C0MAr6xvsr67BuObM89ku.4HwtXUhlao9TETwtTTtZDWT.FxWrkU2",
+    "age": "77",
+    "fullname": "John898",
+    "id": "1712230978305",
+    "avatar": "https://i.pravatar.cc/300"
+  },
+  {
+    "email": "john2188@test.com",
+    "password": "$2a$10$ft9xU3239lBVaq7rAGkMW.UtDgMhhL4wubcKhVZkLZc.94aXB6IGW",
+    "age": "88",
+    "fullname": "test80",
+    "id": "1712295271839",
+    "avatar": "https://i.pravatar.cc/300"
+  },
+  {
+    "email": "john21888@test.com",
+    "password": "$2a$10$slmQ6Xrn8MluXcJr1Th0h.4t5hTE2/xGtG2rk2yNBpE28CMWag57m",
+    "fullname": "test80",
+    "id": "1712295633288",
+    "avatar": "https://i.pravatar.cc/300"
+  }
+]
